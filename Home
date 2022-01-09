@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <link rel="stylesheet" text"style/css"/>
+        <title>notre premier site</title>
+    </head>
+    <body>
+        <header>
+        
+  
+  <div>
+  <nav>
+ <a style="float:right"; href="home.html">acceuil</a>
+ <br> <a style="float:right"; href="decouvrir.html">decouvrir</a>
+ <br> <a style="float:right"; href="recommandations.html">recommandations</a> </nav>
+ 
+  </div>
+  </nav>
+  
+  <aside> <h4>
+ sotouriste est un site qui promouvoie le tourisme Guinéen à l'international. voulez-vous decouvrir les merveilles de la Guinée,ce site est fait pour cela.vivez le comme si vous etiez en Guinée.</h4>
+      </aside>
+ <footer> 
+   copyright & reserved <br />
+   <a href="contact.html">nous contacter</a>
+   </footer>
+     
+     
+ </footer>
+ 
+
+    </body>
+</html>	
